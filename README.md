@@ -602,3 +602,9 @@ and you'll get the exact hash shown above. That's the salt + password producing 
 ---
 
 *Tools referenced: hashcat, John the Ripper (Jumbo), hashid / Name-That-Hash, the `*2john` converters, CrackStation, CyberChef. Mode numbers verified against the official hashcat example-hashes list. Pair this with the Decode/Cryptography notes — some "password" challenges are really encoding puzzles in disguise.*
+
+---
+
+## License
+
+MIT © 2026 Humza Sheikh — free to use and adapt. See [LICENSE](LICENSE).
